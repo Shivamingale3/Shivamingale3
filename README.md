@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <video height="200" src="https://github.com/Shivamingale3/Shivamingale3/blob/main/saitama-ok.gif" type="video/gif"/>
+  <img height="200" src="https://github.com/Shivamingale3/Shivamingale3/blob/main/saitama-ok.gif" type="image/gif"/>
 </div>
 
 ###
