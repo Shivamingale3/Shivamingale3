@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://tenor.com/view/saitama-ok-one-punch-man-gif-15499135](https://github.com/Shivamingale3/Shivamingale3/blob/main/saitama-ok.gif"/>
+  ![](https://github.com/Shivamingale3/Shivamingale3/blob/main/saitama-ok.gif)
 </div>
 
 ###
