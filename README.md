@@ -70,8 +70,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Shivamingale3/Shivamingale3/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shivamingale3/count.svg?"  />
+</div>
 
 ###
