@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <video height="200" src="https://tenor.com/view/one-punch-man-ok-saitama-gif-4973579" type="video/gif"/>
+  <video height="200" src="https://tenor.com/view/okay-onepunchman-one-punch-man-gif-20950156" type="video/gif"/>
 </div>
 
 ###
