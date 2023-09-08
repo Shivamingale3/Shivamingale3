@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shivam Ingale and I'm a Coder, from India!</h2>
+<h2 align="left">Hi 👋! My name is Shivam Ingale and I'm a Programmer from India!</h2>
 
 ###
 
