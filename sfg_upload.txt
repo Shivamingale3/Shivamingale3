@@ -1,0 +1,17 @@
+1.  sftp shivam-ingale@frs.sourceforge.net
+The authenticity of host 'frs.sourceforge.net (216.105.38.21)' can't be established.
+ED25519 key fingerprint is SHA256:209BDmH3jsRyO9UeGPPgLWPSegKmYCBIya0nR/AWWCY.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'frs.sourceforge.net' (ED25519) to the list of known hosts.
+(shivam-ingale@frs.sourceforge.net) Password: 
+Connected to frs.sourceforge.net.
+sftp> cd /home
+sftp> cd frs
+sftp> cd p
+sftp> cd shivam-ingale-s-tundra
+sftp> ls
+Project-Matrixx     Superior-Extended   
+sftp> mkdir AwakenOS
+sftp> cd AwakenOS
+sftp> put Awaken-4.3-ursa-tundra-unofficial.zip 
