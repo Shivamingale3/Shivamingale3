@@ -18,17 +18,3 @@
 
 ###
 
-
-###
-
-
-
-###
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Shivamingale3/count.svg?"  />
-</div>
-
-###
