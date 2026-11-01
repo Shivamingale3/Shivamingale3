@@ -10,5 +10,5 @@ Lately I've been spending my time on distributed systems, AI agents and system d
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-DEPLOYMENT.vercel.app/api/top-langs?username=Shivamingale3&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000">
-  <img alt="Most used languages" src="https://vercel.com/shivams-projects-e34e2151/github-readme-stats/BeJiWzJiQUSUJWrJwHYYcrpxGvA8/api/top-langs?username=Shivamingale3&layout=compact&langs_count=6&hide_border=true&bg_color=00000000">
+  <img alt="Most used languages" src="https://github-readme-stats-zeta-two-tnd7evfdpo.vercel.app/api/top-langs?username=Shivamingale3&layout=compact&langs_count=6&hide_border=true&bg_color=00000000">
 </picture>
