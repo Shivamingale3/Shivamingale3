@@ -1,6 +1,6 @@
 ## Hi, I'm Shivam
 
-Software engineer from India. I build backend systems and web products, mostly with Node.js and TypeScript. I like building things that stay simple as they grow.
+Software engineer from India. I build systems & products, mostly with Node.js, TypeScript, Python FastAPI, React.Js and Next.Js. I like building things that stay simple as they grow.
 
 Lately I've been spending my time on distributed systems, AI agents and system design, writing small developer tools in Go, and self-hosting most of what I use.
 
